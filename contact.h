@@ -1,5 +1,5 @@
 #ifndef CONTACT_H
-#define CONTACT_H
+#define CONTACT_H 
 
 #define MAX_CONTACTS 100
 
